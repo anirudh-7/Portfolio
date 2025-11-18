@@ -22,16 +22,24 @@ function AboutSection() {
             {personalData.description}
           </p>
 
-          <p className="text-black  text-justify text-sm lg:text-lg">
+          <p className="text-black  text-justify text-sm lg:text-lg mb-6">
             {personalData.description2}
+          </p>
+
+          <p className="text-black  text-justify text-sm lg:text-lg mb-6">
+            {personalData.description3}
+          </p>
+
+          <p className="text-black  text-justify text-sm lg:text-lg">
+            {personalData.description4}
           </p>
         </div>
         <div className="flex justify-center order-1 lg:order-2">
           <Image
             src={personalData.profile}
-            width={370}
+            width={450}
             height={300}
-            alt="Neha Nooka"
+            alt="Anirudh Agarwal"
             className="rounded-lg transition-all duration-1000 hover:scale-110 cursor-pointer"
           />
         </div>

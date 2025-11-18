@@ -1,50 +1,39 @@
 export const experiences = [
   {
     id: 1,
-    title: 'Software Engineer',
-    company: "Signarama",
-    duration: "(Aug 2024 - June 2025)",
-    tools: ['Python', 'Dialogflow', 'Trello', 'Automation', 'Task Management'],
-    image: '/png/signarama.png',
-    description: 'Developed a chatbot using Python and Dialogflow for internal use, improving onboarding and training efficiency by 20%. Designed and implemented automation solutions for Trello boards to streamline task management, resulting in a 35% increase in efficiency.'
+    title: 'Senior Software Developer',
+    company: "SAP Labs India",
+    duration: "(Jul 2022 - Present)",
+    tools: ['Java', 'Node.js', 'Angular', 'PostgreSQL', 'AWS', 'GCP', 'Azure', 'Scrum Master', 'Mentorship'],
+    image: '/png/sap_logo.jpeg',
+    description: 'Built core platform capabilities including a global ACL framework, major B2B experience modules, and an automated PostgreSQL credential rotation system processing 16K+ monthly updates. Led Angular migrations, accessibility compliance efforts, and development of a job framework for scheduled data operations. Resolved 85+ critical customer issues and enabled teams through training that reduced consulting tickets and developer workload significantly.'
   },
   {
     id: 2,
-    title: "Data Science Researcher and Teaching Assistant",
-    company: "University of Maryland",
-    duration: "(May 2023 - Nov 2024)",
+    title: "Senior Software Engineer",
+    company: "Fractal Analytics",
+    duration: "(Oct 2019 - Apr 2022)",
     tools: ['Excel', 'Python', 'Tableau', 'Power BI', 'ETL', 'Data Visualization', 'Natural Language Processing', 'Mentorship'],
-    image: '/png/UMBC.jpg',
+    image: '/png/fractal_logo.png',
     description: 'Managed 30+ datasets for the Center for Women in Tech assessment, generating 10+ reports and 30+ visualizations using Tableau and Power BI. Mentored 50 students in Natural Language Processing, providing tutoring and feedback. Employed advanced Excel functions and Python for ETL processes and data visualization.'
   },
   {
     id: 3,
     title: 'Software Engineer',
-    company: "Accenture",
-    duration: "(Sept 2021- Aug 2022)",
+    company: "Hadhedin by Deloitte",
+    duration: "(Jun 2018 - Jul 2019)",
     tools: ['ASP.NET','Core MVC', 'MySQL', 'Jenkins', 'CI/CD', 'Unit Testing', 'Performance Optimization', 'Troubleshooting'],
-    image: '/png/accenture.png',
+    image: '/png/hashedin_logo.png',
     description: 'Redesigned an internal time tracker application using ASP.NET Core MVC, improving user experience and increasing reporting efficiency by 25%. Optimized application performance with unit testing and CI/CD pipelines using Jenkins, resulting in a 15-18% increase in page load times. Utilized advanced debugging and automated testing to achieve a 20% faster page load time.'
   },
   {
     id: 4,
-    title: 'Software Engineer',
-    company: "La Net Team Software Solutions",
-    duration: "(Jan 2021 - Sept 2021)",
+    title: 'Software Intern',
+    company: "Wipro GE Healthcare",
+    duration: "(Jan 2018 - Jun 2018)",
     tools: ['React Native', 'TypeScript', 'Redux', 'AWS Amplify', 'AWS CloudWatch', 'AWS Pinpoint', 'Real-time Tracking', 'Multilingual Support'],
-    image: '/png/lanet.jpeg',
+    image: '/png/ge_logo.png',
     description: 'Designed and built a ridesharing application using React Native and TypeScript, integrating AWS services like Amplify, CloudWatch, and Pinpoint for efficient data management. Developed a restaurant application with real-time order tracking, interactive menus, and multilingual support, reducing order processing time by 30%.'
-  },
-   {
-    id: 5,
-    title: "Software Intern",
-    company: "Mokshit Infotech",
-    duration: "(May 2020 - Dec 2020)",
-    tools: ["React Native", "Node.js", "TypeScript", "Azure Services"],
-    image: '/png/mokshit.jpeg',
-    description: [
-      "Developed and maintained a cross-platform mobile application using React Native, seamlessly integrating Azure services to support and manage over 10,000 daily active users. Optimized server-side APIs with Node.js and TypeScript, reducing response times by 30% and enabling efficient data handling."
-    ]
-  } 
+  }
 ]
 
