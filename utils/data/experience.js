@@ -13,27 +13,27 @@ export const experiences = [
     title: "Senior Software Engineer",
     company: "Fractal Analytics",
     duration: "(Oct 2019 - Apr 2022)",
-    tools: ['Excel', 'Python', 'Tableau', 'Power BI', 'ETL', 'Data Visualization', 'Natural Language Processing', 'Mentorship'],
+    tools: ['React', 'TypeScript', 'Django', 'Excel', 'Python', 'Power BI', 'ETL', 'Data Visualization', 'Natural Language Processing', 'AWS', 'REST APIs'],
     image: '/png/fractal_logo.png',
-    description: 'Managed 30+ datasets for the Center for Women in Tech assessment, generating 10+ reports and 30+ visualizations using Tableau and Power BI. Mentored 50 students in Natural Language Processing, providing tutoring and feedback. Employed advanced Excel functions and Python for ETL processes and data visualization.'
+    description: 'Led the frontend architecture for a warehouse management system used across 26 European sites, enabling real-time operational visibility. Built automated Power BI dashboards supporting battery distribution across 14 EMEA countries during COVID-19. Developed a resilient Django-based business continuity platform delivering 99.9% uptime for a major CPG client. Supported seamless RESTful API integration for payment systems in the Australian telecom domain.'
   },
   {
     id: 3,
     title: 'Software Engineer',
     company: "Hadhedin by Deloitte",
     duration: "(Jun 2018 - Jul 2019)",
-    tools: ['ASP.NET','Core MVC', 'MySQL', 'Jenkins', 'CI/CD', 'Unit Testing', 'Performance Optimization', 'Troubleshooting'],
+    tools: ['React', 'Angular', 'TypeScript' , 'IoT protocols (MQTT/HTTP)', 'MySQL', 'Unit Testing', 'Performance Optimization', 'Troubleshooting'],
     image: '/png/hashedin_logo.png',
-    description: 'Redesigned an internal time tracker application using ASP.NET Core MVC, improving user experience and increasing reporting efficiency by 25%. Optimized application performance with unit testing and CI/CD pipelines using Jenkins, resulting in a 15-18% increase in page load times. Utilized advanced debugging and automated testing to achieve a 20% faster page load time.'
+    description: 'Developed a robust IoT safety sensor management software suite for a Fortune 100 client, enabling reliable device monitoring at scale. Boosted overall application performance by 60% through deep API optimization and advanced data handling strategies.'
   },
   {
     id: 4,
     title: 'Software Intern',
     company: "Wipro GE Healthcare",
     duration: "(Jan 2018 - Jun 2018)",
-    tools: ['React Native', 'TypeScript', 'Redux', 'AWS Amplify', 'AWS CloudWatch', 'AWS Pinpoint', 'Real-time Tracking', 'Multilingual Support'],
+    tools: ['C++', 'Python', 'Selenium', 'Cypress', 'SQL', 'Jira'],
     image: '/png/ge_logo.png',
-    description: 'Designed and built a ridesharing application using React Native and TypeScript, integrating AWS services like Amplify, CloudWatch, and Pinpoint for efficient data management. Developed a restaurant application with real-time order tracking, interactive menus, and multilingual support, reducing order processing time by 30%.'
+    description: 'Built a web app for validating test routines and remotely scheduling test cases for medical imaging software. Logged and tracked software defects and automated test flows using selenium to accelerate QA cycles.'
   }
 ]
 
