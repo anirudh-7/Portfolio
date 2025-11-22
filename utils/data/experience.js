@@ -20,7 +20,7 @@ export const experiences = [
   {
     id: 3,
     title: 'Software Engineer',
-    company: "Hadhedin by Deloitte",
+    company: "Hashedin by Deloitte",
     duration: "(Jun 2018 - Jul 2019)",
     tools: ['React', 'Angular', 'TypeScript' , 'IoT protocols (MQTT/HTTP)', 'MySQL', 'Unit Testing', 'Performance Optimization', 'Troubleshooting'],
     image: '/png/hashedin_logo.png',
