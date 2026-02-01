@@ -14,5 +14,5 @@ export const personalData = {
   twitter: 'https://x.com/night_rider31',
   leetcode: "https://leetcode.com/u/anirudhagarwal020/",
   devUsername: "nehanooka",
-  resume: "hhttps://drive.google.com/file/d/1jt8WwFMo-vIQU85AG5cNtu7_LK8gnR6w/view?usp=drive_link"
+  resume: "https://drive.google.com/file/d/1jt8WwFMo-vIQU85AG5cNtu7_LK8gnR6w/view?usp=sharing"
 }
